@@ -1,0 +1,11 @@
+{
+  "name": "try-aws-dynamodb",
+  "version": "0.0.1",
+  "description": "Playaround with AWS JS SDK",
+  "main": "index.js",
+  "author": "Peter Chung <hkpeterpeter@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.60.0"
+  }
+}
